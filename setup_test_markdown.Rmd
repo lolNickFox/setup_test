@@ -24,3 +24,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Here I am making a change to try and push the commit to github.
 
 and here is a second change to the markdown file only.
+
+
+This is my third edit after messing around with the file paths.
